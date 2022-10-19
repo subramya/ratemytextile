@@ -1,0 +1,10 @@
+{
+  "name": "Test Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "textile.html",
+    "default_icon": "rate.png"
+  },
+  "//second_comment": "json object holds value."
+}
